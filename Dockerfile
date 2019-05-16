@@ -1,3 +1,3 @@
 FROM wordpress:php7.1-apache
-COPY . /root/wordpress/
+COPY . /usr/src/wordpress/
 
